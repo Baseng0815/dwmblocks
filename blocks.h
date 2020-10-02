@@ -5,6 +5,7 @@ static const Block blocks[] = {
     {"",        "get-memory",	        1,		        0},
     {"",        "get-volume",           3600,		        9},
     {"",        "get-battery",          60,		        10},
+    {"",        "get-conn",             60,		        0},
     {"",        "get-weather",          60,		        0},
     {"",        "get-date",	        15,		        0}
 };
